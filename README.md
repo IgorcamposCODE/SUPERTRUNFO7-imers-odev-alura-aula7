@@ -9,14 +9,10 @@
 
 #### COMO ACESSAR O PROJETO?<br>
 
-* * Github:https://github.com/IgorcamposCODE/supertrunfo-imersaoalura-aula7.git
+* * Github: https://github.com/IgorcamposCODE/SUPERTRUNFO7-imers-odev-alura-aula7
 * * Codepen: https://codepen.io/igorcamposcode/pen/KKZdxYE?editors=0011
-* * Netlify: 
+* * Netlify: https://heroisasombratrunfo-imersaodev-alura.netlify.app
 
-#### NETLIFY STATUS <br># supertrunfo-imersaoalura-aula7
-# supertrunfo-imersaoalura-aula7
-# supertrunfo-imersaoalura-aula7
-# supertrunfo-imersaoalura-aula7
-# supertrunfo-imersaoalura-aula7
-# SUPERTRUNFO7-imers-odev-alura-aula7
-# SUPERTRUNFO7-imers-odev-alura-aula7
+#### NETLIFY STATUS <br>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c2e86fd6-89af-4a35-be3b-6921ccf0d6a3/deploy-status)](https://app.netlify.com/sites/heroisasombratrunfo-imersaodev-alura/deploys)
