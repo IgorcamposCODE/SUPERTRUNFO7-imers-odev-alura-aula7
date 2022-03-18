@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heróis a Sombra - imersão dev - alura</title>
+    <link rel="stylesheet" href="_css/style.css">
+</head>
+<body>
+    <div class="container">
+        <img src="https://i.ibb.co/MhqJjKs/Logotipo1.png" class="page-logo" alt="">
+       <center><h1 class="page-title">Heróis a Sombra</h1></center>
+       <center><h2 class="page-subtitle">Desafie os seus instintos</h2></center><br>
+         
+        <p>Sorteie Uma Carta.</p>
+        <button onclick="sortearCartas()" id="btnSortear"> Sortear uma carta </button>
+
+        <form id="form">
+            <p>Escolha um atributo</p>
+            <div class="opcoes" id="opcoes"></div>
+            <button type="button" id="btnJogar" onclick="jogar()" disabled="true" > Jogar </button>
+            <div id="resultado"></div> 
+        </form>
+    </div>
+    <script src="_script/script.js"></script>
+</body>
+</html>
