@@ -7,7 +7,7 @@ var cartas1 = {
       velocidade: 9,
       destreza:8
   }
-};
+}
 
 var cartas2 = {
   nome: "Abelha da morte",
@@ -31,7 +31,18 @@ var cartas3 = {
   }
 }
 
-    var cartas = [cartas1, cartas2, cartas3];
+var cartas4 = {
+  nome: "Almirante das Sombras",
+  atributos:{
+    ataque: 12,
+    defesa: 8,
+    magia: 23,
+    velocidade: 13,
+    destreza: 12
+  }
+}
+
+    var cartas = [cartas1, cartas2, cartas3, cartas4];
     var cartasMaquina;
     var cartasJogador;
 
